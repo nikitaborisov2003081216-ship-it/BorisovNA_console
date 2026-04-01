@@ -9,7 +9,7 @@
 
         // Борисов НикитаАлексеевич Ам-1-25
 
-       
+       //new_feature
         static public double Sqr(double X)
         {
             return X * X;
