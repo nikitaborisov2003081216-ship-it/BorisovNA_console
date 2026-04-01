@@ -3,3 +3,8 @@
 # Фамилия: Борисов 
 !БорисовНА.pdf 
 !BorisovNA.pdf 
+# Ignore build output directories
+**/bin/
+**/obj/
+bin/
+obj/
